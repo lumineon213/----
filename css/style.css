@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+
+table, th, td{
+    border: 1px solid black;
+}
+table #line_3 #lr{
+    writing-mode:vertical-rl;
+    letter-spacing:1.5rem;
+}
